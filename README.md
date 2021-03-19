@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shahana khundmir
+- 👋 Hi, I’m @shahanakhundmir
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning JavaScript and React
 - 💞️ I’m looking to collaborate on frontend JavaScript projects
